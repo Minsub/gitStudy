@@ -1,0 +1,43 @@
+From dce112a0a9ae075b8487c6d30d9569502109b974 Mon Sep 17 00:00:00 2001
+From: Minsub Ji <jiminsub@gmail.com>
+Date: Fri, 7 Jul 2017 16:40:24 +0900
+Subject: [PATCH] Initial commit
+
+---
+ folder1/file1-1.txt |  5 +++++
+ sample1.txt         | 10 ++++++++++
+ 2 files changed, 15 insertions(+)
+ create mode 100644 folder1/file1-1.txt
+ create mode 100644 sample1.txt
+
+diff --git a/folder1/file1-1.txt b/folder1/file1-1.txt
+new file mode 100644
+index 0000000..cc5391b
+--- /dev/null
++++ b/folder1/file1-1.txt
+@@ -0,0 +1,5 @@
++file1-1
++
++1111
++2222
++3333
+\ No newline at end of file
+diff --git a/sample1.txt b/sample1.txt
+new file mode 100644
+index 0000000..370c6c1
+--- /dev/null
++++ b/sample1.txt
+@@ -0,0 +1,10 @@
++line 1
++line 2
++line 3
++
++
++
++
++
++
++line 10
+-- 
+2.10.1
+
