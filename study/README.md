@@ -1,3 +1,5 @@
 # git studt
 
-open turorials
+1. open turorials
+
+2. revert
