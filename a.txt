@@ -2,7 +2,5 @@ test file
 add line
 add line2
 add line3
-asdasdasd
-asdasdasd
-bbbbb
+add line4
 
