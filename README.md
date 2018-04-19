@@ -24,6 +24,9 @@ git스터디를 위한 프로젝트
  - 커밋들 하나로 만들기
    + git rebase -i HEAD~2
 
+5. merge
+ - merge 취소: git merge --abort
+
 * 옵션들
  - hard: 이전 내용들을 다 지움
  - soft: 이전 내용들을 index에 남김
