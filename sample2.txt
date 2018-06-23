@@ -1,19 +1,10 @@
 line 1
 line 2
-<<<<<<< HEAD
-=======
 line 3
-
-
-
-
-
-
 line 10
+aa
 
-
 new line 
 new line 
 new line 
 new line 
->>>>>>> hotfix/temp_hotfix
