@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+file-5
+1
+2
+3
+=======
 file5
 1
 2
@@ -18,3 +24,4 @@ e
 e
 e
 
+>>>>>>> hotfix/temp_hotfix
